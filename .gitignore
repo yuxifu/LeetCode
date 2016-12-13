@@ -6,3 +6,5 @@ out
 a.out.*/
 *~
 *.bak
+
+*.class
